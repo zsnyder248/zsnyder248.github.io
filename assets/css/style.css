@@ -77,8 +77,9 @@
 
 
 .readme {
+  margin-left: 50px;
   position: relative;
-  padding: 100px 35px;
+  padding: 11px 35px;
   background: #fff;
   color: #00796b;
   border: 2px solid #fff;
